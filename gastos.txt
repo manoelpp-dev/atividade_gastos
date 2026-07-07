@@ -1,7 +1,4 @@
-nome | valor | 
-______________
+nome | valor | categoria | 
 
-Manoel | 1.000
-Fulano | 10.90
-Ciclano | 10.90
-Nicolas | 05.90
+Manoel | 1.000 | Ifood
+Nicolas | 05.90 | Bazar
