@@ -3,3 +3,8 @@ nome | valor | categoria | data | método de pagamento |
 Manoel | 1.000 | Ifood
 Nicolas | 05.90 | Bazar
 Carlos | 10.00 | Uber
+Nicolas | 250.90 | Gift Card 
+Nicolas | 71.54 | Ifood 
+Nicolas | 374.65 | Uber
+Nicolas | 171.00 | Doces 
+Nicolas | 521.00 | Eletrônicos
