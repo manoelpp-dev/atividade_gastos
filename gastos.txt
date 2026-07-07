@@ -1,0 +1,5 @@
+nome | valor | 
+______________
+
+Manoel | 1.000
+Fulano | 10.90
