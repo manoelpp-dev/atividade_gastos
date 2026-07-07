@@ -1,4 +1,4 @@
-nome | valor | categoria | 
+nome | valor | categoria | data | método de pagamento |                                    
 
 Manoel | 1.000 | Ifood
 Nicolas | 05.90 | Bazar
